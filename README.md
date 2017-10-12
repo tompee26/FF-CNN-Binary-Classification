@@ -1,5 +1,5 @@
 # FF-CNN-Binary-Classification
-An experimental feedforward convolutional neural network for binary image classification using Tensorflow
+An experimental feedforward convolutional neural network for binary class image classification using Tensorflow
 
 # Features
 1. Classifies an image as either X or an O
@@ -7,7 +7,7 @@ An experimental feedforward convolutional neural network for binary image classi
 3. Can choose up to 2 fully connected layers
 4. Cost function is cross entropy
 5. Optimizer is gradient descent with configurable learning rate
-6. Dataset of 200 training and 100 test data
+6. Controlled dataset of 200 training and 100 test data
 
 # Results
 The classifier is configured to train and test using different learning rate and fully connected layer combinations.
